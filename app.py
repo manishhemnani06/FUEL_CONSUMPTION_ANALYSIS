@@ -3,7 +3,7 @@ import pandas as pd
 import pickle as pk
 import streamlit as st
 import base64
-# import sklearn as sk
+import sklearn as sk
 from streamlit.components.v1 import html
 
 loaded_model = pk.load(open("trained_model_lr.sav","rb"))
