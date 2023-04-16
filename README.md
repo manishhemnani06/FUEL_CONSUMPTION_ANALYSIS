@@ -71,13 +71,16 @@ for indepth Univariate analysis understanding 👉 https://github.com/manishhemn
 <h2> 
   🤖M.L. Model Deployment-
 </h2>
-- USed pickel library to create a sas (Statistical Analysis System) file for model deployment.
+- Used pickle library to create a sas (Statistical Analysis System) file for model deployment.
 <img src="https://github.com/manishhemnani06/FUEL_CONSUMPTION_ANALYSIS/blob/main/images/Gx4uLvvwma.png">
 
 
 <h2> 
   💻User Interface-
 </h2>
+- For user interface used streamlit library.
+<br>
+<br>
 click on image to use U.I. :
 <a href="https://fuel-consumption-rating.streamlit.app/">
 <img src="https://github.com/manishhemnani06/FUEL_CONSUMPTION_ANALYSIS/blob/main/images/OCpdLj8B7l.png">
